@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Boyed_Display.unity
+  isLoaded: 1
+  isActive: 1
